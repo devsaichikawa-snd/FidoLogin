@@ -199,3 +199,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# キーペア情報
+*.pem
+user_key_pair/
